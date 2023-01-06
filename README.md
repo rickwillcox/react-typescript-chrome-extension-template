@@ -1,4 +1,4 @@
-Credit: This repo was cloned from [React-Content-Script](https://github.com/yosevu/react-content-script) - I've added quite a few more features including background scripts and state management.
+Credit: The base of this repo was cloned from [React-Content-Script](https://github.com/yosevu/react-content-script) - I've added quite a few more features including background scripts and state management.
 
 # React TypeScript Chrome Extension Template
 
