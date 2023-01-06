@@ -38,14 +38,3 @@ async function exampleFetch() {
     (response) => response.json()
   );
 }
-
-// exampleFetch();
-
-async function getListings() {
-  const response = await fetch(`http://localhost:3000/getRealEstateListings`);
-  const data = await response.json();
-  console.log("getListings", data);
-  return data;
-}
-
-// exampleFetch1();
