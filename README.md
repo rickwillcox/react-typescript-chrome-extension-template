@@ -8,7 +8,7 @@ The goal of this repository is to provide a fully-featured template that allows 
 
 This project uses [Vite](https://vitejs.dev/) and [crxjs](https://crxjs.dev/vite-plugin) to build the extension.
 
-##Features added
+## Features added
 
 - Background Scripts - React components can communicate with the background scripts and react to fetched data.
 - State Management - Context and Zustand.
@@ -19,7 +19,7 @@ Why Zustand? Its quick and easy to get up and running, strip it you dont want it
 
 Why Context? I am using this to receive background script messages and update that zustand stores with that data. This is what allows the components to be react. You could do this all with vanilla zustand but I wanted to keep the zustand hooks. I also wanted to keep the `chrome.runtime.sendMessage` logic out of the other components and just have them consume the stores / context.
 
-##What you will be greated with upon installation
+## What you will be greated with upon installation
 
 ![Example Page](example-page.png)
 
