@@ -27,7 +27,7 @@ Why Context? I am using this to receive background script messages and update th
 ### Clone repository
 
 ```sh
-git clone git@github.com:rickwillcox/typescript-react-chrome-extension.git
+git clone https://github.com/RickWillcox/react-typescript-chrome-extension-template.git
 ```
 
 ### Install dependencies
