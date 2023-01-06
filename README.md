@@ -55,5 +55,5 @@ yarn watch
 1. Navigate to [chrome://extensions/](chrome://extensions/)
 1. Turn on the "Developer mode" toggle switch in the top right of the window
 1. Click the "Load unpacked" button in top left of the window
-1. Go to the `React-TypeScript-Chrome-Extension-Template` directory and select the `dist` directory to load the extension
-1. Navigate to [This Page](https://this-page-intentionally-left-blank.org/) to see the Content Script React app
+1. Go to the `react-typeScript-chrome-extension-template` directory and select the `dist` directory to load the extension
+1. Navigate to [This Page](https://this-page-intentionally-left-blank.org/) to see the React Typescript Chrome Extension Template app in action!
