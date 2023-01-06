@@ -18,7 +18,7 @@ function AppProvider(props: Props) {
   function exampleFetch() {
     chrome.runtime.sendMessage({
       functionName: "exampleFetch",
-      data: { tabId: 1235 },
+      data: {},
     });
   }
 

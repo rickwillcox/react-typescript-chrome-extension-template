@@ -28,7 +28,6 @@ export default defineConfig({
       "@stores": "/src/stores",
       "@utils": "/src/utils",
       "@assets": "/src/assets",
-      "@interfaces": "/src/interfaces",
       "@backgroundScripts": "/src/backgroundScripts",
     },
   },

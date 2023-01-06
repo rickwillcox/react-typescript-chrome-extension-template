@@ -10,6 +10,7 @@ chrome.runtime.onMessage.addListener(function async(
   processContentScriptFunctions(func, sender, sendResponse);
 });
 
+// todo improve types here
 async function processContentScriptFunctions(
   func: any,
   sender: any,
@@ -21,10 +22,6 @@ async function processContentScriptFunctions(
     data: "",
   };
   switch (func.functionName) {
-    case "getListings":
-      msg.data = await getListings();
-      chrome.tabs.sendMessage(sender.tab.id, msg);
-      break;
     case "exampleFetch":
       msg.data = await exampleFetch();
       chrome.tabs.sendMessage(sender.tab.id, msg);

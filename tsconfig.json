@@ -22,7 +22,6 @@
     "@stores/*": ["src/stores/*"],
     "@assets/*": ["src/assets/*"],
     "@utils/*": ["src/utils/*"],
-    "@interfaces/*": ["src/interfaces/*"],
     "@backgroundScripts/*": ["src/backgroundScripts/*"],
   }
   },
