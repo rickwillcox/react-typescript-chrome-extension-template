@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "chokidar": "chokidar \"**/*.**\" -c \"npm run build\" -i \"dist/**\" -i \"**/*.mjs\""
+    "watch": "chokidar \"**/*.**\" -c \"npm run build\" -i \"dist/**\" -i \"**/*.mjs\""
   },
   "dependencies": {
     "react": "^18.2.0",

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "React Content Script",
+  "name": "React TypeScript Chrome Extension Template",
   "version": "1.0.0",
   "action": {
     "default_title": "Popup",
