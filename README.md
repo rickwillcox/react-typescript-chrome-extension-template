@@ -20,6 +20,7 @@ This project uses [Vite](https://vitejs.dev/) and [crxjs](https://crxjs.dev/vite
 Why Zustand? Its quick and easy to get up and running, strip it you dont want it.
 
 Why Context? I am using this to receive background script messages and update that zustand stores with that data. This is what allows the components to be react. You could do this all with vanilla zustand but I wanted to keep the zustand hooks. I also wanted to keep the `chrome.runtime.sendMessage` logic out of the other components and just have them consume the stores / context.
+Note: I have done this to keep it relivitely simple to get started. You can definitely just use custom hooks. If you would like to see a more advanced exmaple please check out this repo [Real Estate Mate](https://github.com/RickWillcox/Real-Estate-Mate). I my update this repo after I have finished that extension I just linked with updates based on what I learned.
 
 ## What you will be greated with upon installation
 
