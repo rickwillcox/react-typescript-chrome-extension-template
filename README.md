@@ -1,7 +1,5 @@
 [![GitHub stars](https://img.shields.io/github/stars/rickwillcox/react-typescript-chrome-extension-template.svg)](https://github.com/rickwillcox/react-typescript-chrome-extension-template/stargazers)
 
-Credit: The base of this repo was cloned from [React-Content-Script](https://github.com/yosevu/react-content-script) - I've added quite a few more features including background scripts and state management.
-
 # React TypeScript Chrome Extension Template
 
 This comprehensive template is perfect for beginners looking to dive straight into building a Chrome Extension using React and TypeScript. It's packed with examples and guidance on injecting a React app into an existing webpage, managing state with Zustand and context, and establishing communication between background and content scripts. With all the necessary resources conveniently located in one place, you'll find that building your own Chrome Extension has never been easier. Star it if you find it useful so you can reccomend it to others.
@@ -62,4 +60,6 @@ yarn watch
 1. Go to the `react-typeScript-chrome-extension-template` directory and select the `dist` directory to load the extension
 1. Navigate to [This Page](https://this-page-intentionally-left-blank.org/) to see the React Typescript Chrome Extension Template app in action!
 
+
+Credit: The base of this repo was cloned from [React-Content-Script](https://github.com/yosevu/react-content-script) - I've added a lot more features including background scripts and state management.
 
