@@ -6,6 +6,7 @@ Credit: The base of this repo was cloned from [React-Content-Script](https://git
 
 This comprehensive template is perfect for beginners looking to dive straight into building a Chrome Extension using React and TypeScript. It's packed with examples and guidance on injecting a React app into an existing webpage, managing state with Zustand and context, and establishing communication between background and content scripts. With all the necessary resources conveniently located in one place, you'll find that building your own Chrome Extension has never been easier. Star it if you find it useful so you can reccomend it to others.
 
+<a href="https://www.buymeacoffee.com/rickwillcox" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 This project uses [Vite](https://vitejs.dev/) and [crxjs](https://crxjs.dev/vite-plugin) to build the extension.
